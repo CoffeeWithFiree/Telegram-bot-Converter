@@ -9,7 +9,7 @@ from datetime import date
 from requests.exceptions import ConnectionError, RequestException
 from datetime import datetime, timedelta
 
-bot = telebot.TeleBot("6474521787:AAFZhyohoin1HnsB4cWTU2aA3Bwysbbt8Lg")#Токен бота
+bot = telebot.TeleBot("")#Токен бота
 
 
 
